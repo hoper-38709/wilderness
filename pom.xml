@@ -204,6 +204,7 @@
 	<modules>
 		<module>EnumSample</module>
 		<module>FunctionalSample</module>
+		<module>StreamsSample</module>
 	</modules>
 	<profiles>
 		<profile>
